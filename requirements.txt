@@ -1,0 +1,6 @@
+requests
+termcolor
+
+# --- Optional LLM Libraries (install based on usage) ---
+# google-generativeai
+# openai
